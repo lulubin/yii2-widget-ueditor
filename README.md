@@ -1,2 +1,1 @@
-# yii2-widget-ueditor
-An Yii2 widget for ueditor
+## [安装、使用方法](https://www.lulublog.cn/post/17) 
